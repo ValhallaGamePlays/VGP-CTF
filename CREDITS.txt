@@ -1,0 +1,55 @@
+Stained Glass Windows:
+Conversion: N/A
+Author: Raven Software, Raccoon, ItsNatureToDie
+Submitted: Raccoon
+Additional Credits: RaVen-05 for textures from Hexen Beta
+
+STAINED GLASS WINDOWS
+The essential collection
+================
+Assembled by Raccoon for the ZHexen project
+Originals by Raven Software for Heretic and Hexen
+All edits were added with express permission.
+
+---- Individual Credits ----
+GLASS01 to 06 are directly from HEXEN
+GLASS07 and 08 are from the Hexen Beta (special thanks to RaVeN-05 for posting these)
+STNGLS1 to 3 are directly from Heretic
+
+GLASSL, GLASST, and GLASSW, and GLASSE05 are edits by Raccoon
+The broken/large versions of Heretic's STNGLS are edits by Raccoon
+
+GLASSE edits by ItsNatureToDie, included with permission
+
+Baker's Legacy:
+Conversion: BlazingPheonix
+Author: Captain Toenail, Enjay, Esselfortium, Evil Space Tomato, Gez, Neoworm, Nightmare, Pun1sh3r, Icytux, Rottking,  Tormentor667, Vader, Xaser
+Submitted: Tormentor667
+
+Hexen II Texture Pack:
+Source: Hexen II + expansion
+Count: ~900
+Palette: Truecolor PNGs
+Format: TX_ markers
+Anims/Switches: ANIMDEFS
+Description: Textures from Hexen II and its expansion Portal of Praevus 
+
+Pile of Bones:
+Submitted: Captain Toenail
+Decorate: Captain Toenail
+Sprites: ShadowCaster
+Sprite Edit: Captain Toenail, Gez
+
+Chandelier pack:
+Submitted: TODM
+Decorate: TODM
+GLDefs: TODM, bravo (worked of his original)
+Sprites: Raven Software
+Sounds: Petrilla Entertainment
+Sprite Edit: TODM
+Idea Base: bravos Original Entry
+
+Small Trees & Brushes
+Submitted: CaptainToenail
+Decorate: CaptainToenail
+Sprites: Necrodome

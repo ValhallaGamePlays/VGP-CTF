@@ -1,0 +1,239 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "GZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "B:\\Games\\Doom\\Wads\\skulltag_content-3.0-beta01.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource1
+			{
+				type = 1;
+				location = "C:\\Users\\M\\Documents\\git\\VGP-CTF";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaultfloortexture = "H2TX_205";
+		defaultceiltexture = "F_SKY1";
+		defaulttoptexture = "H2TX_230";
+		defaultwalltexture = "H2TX_230";
+		defaultbottomtexture = "H2TX_230";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		viewpositionx = -17892.56f;
+		viewpositiony = -18219.57f;
+		viewscale = 0.511857f;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 64f;
+		}
+		
+		fieldtypes
+		{
+			
+			sidedef
+			{
+				offsetx_mid = 1;
+				offsety_mid = 1;
+			}
+			
+			sector
+			{
+				xpanningceiling = 1;
+				ypanningceiling = 1;
+				rotationceiling = 17;
+				xscaleceiling = 1;
+				yscaleceiling = 1;
+				xpanningfloor = 1;
+				ypanningfloor = 1;
+				rotationfloor = 17;
+				xscalefloor = 1;
+				yscalefloor = 1;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				activetab = true;
+			}
+		}
+	}
+	
+	VGPCTF01
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 1;
+				location = "C:\\Users\\M\\Documents\\git\\VGP-CTF";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource1
+			{
+				type = 2;
+				location = "B:\\Games\\Doom\\Wads\\skulltag_content-3.0-beta01.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaultfloortexture = "H2TX_777";
+		defaultceiltexture = "F_SKY1";
+		defaulttoptexture = "RCKWAL02";
+		defaultwalltexture = "RCKWAL02";
+		defaultbottomtexture = "RCKWAL02";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		viewpositionx = 2494.409f;
+		viewpositiony = -2314.304f;
+		viewscale = 0.205832f;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32f;
+		}
+		
+		fieldtypes
+		{
+			
+			sidedef
+			{
+				offsetx_bottom = 1;
+				offsety_mid = 1;
+				offsety_bottom = 1;
+				offsetx_top = 1;
+				offsety_top = 1;
+				offsetx_mid = 1;
+				scalex_top = 1;
+				scaley_top = 1;
+				scalex_bottom = 1;
+				scaley_bottom = 1;
+				light = 0;
+			}
+			
+			sector
+			{
+				xpanningceiling = 1;
+				ypanningceiling = 1;
+				rotationceiling = 17;
+				xscaleceiling = 1;
+				yscaleceiling = 1;
+				xpanningfloor = 1;
+				ypanningfloor = 1;
+				rotationfloor = 17;
+				xscalefloor = 1;
+				yscalefloor = 1;
+				lightceiling = 0;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+			}
+			
+			document2
+			{
+				filename = "C:\\Users\\M\\Documents\\git\\VGP-CTF\\ZMAPINFO.txt";
+				hash = 1286694845;
+				resource;
+				tabtype = 2;
+				scripttype = 6;
+				caretposition = 41;
+				activetab = true;
+			}
+		}
+	}
+}

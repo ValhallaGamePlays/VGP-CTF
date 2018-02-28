@@ -1,0 +1,7 @@
+// Lifted directly from Hexen.wad for use in Heretic and Doom maps.
+GlassShatter            glass5
+world/thunder			thndr1
+Ambient/Rain	AMBRAIN
+//chandeliers
+DSCHAFIR DSCHAFIR
+
