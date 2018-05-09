@@ -7,7 +7,7 @@ discord.me/VGP
 Progress:  
 VGPCTF01 - =M=   
 VGPCTF02 - Miles  
-VGPCTF03 - The Zombie 
+VGPCTF03 - The Zombie   
 VGPCTF04  
 VGPCTF05  
 VGPCTF06  
